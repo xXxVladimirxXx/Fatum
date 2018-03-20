@@ -117,7 +117,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <h3 class="text-center">
-					Вот несколько ценных комментраиев.</h3>
+					Комментарии.</h3>
                     
                     <div class="testimonial-carousel">
                         <div class="single-testimonial-item">
